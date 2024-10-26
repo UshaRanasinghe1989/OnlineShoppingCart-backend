@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface ProductService {
     //SAVE NEW PRODUCT
-    void persist(Product product);
+    Product persist(Product product);
 
     //FIND ALL PRODUCTS
     List<Product> findAll();
