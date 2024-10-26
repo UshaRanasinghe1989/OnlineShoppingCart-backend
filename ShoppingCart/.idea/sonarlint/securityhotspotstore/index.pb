@@ -12,3 +12,7 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\86
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+d
+4src/main/java/edu/ex/shoppingcart/model/Product.java,4\d\4d8ff3e8abe5dd9220baf0a55b432b4972a86ba4
+i
+9src/main/java/edu/ex/shoppingcart/model/ProductBrand.java,d\3\d379b1030551c162310359ec9e31e06c47796184
