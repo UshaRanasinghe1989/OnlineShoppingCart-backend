@@ -20,3 +20,5 @@ b
 2src/main/java/edu/ex/shoppingcart/model/Brand.java,b\d\bd138595e48bdca7cb9c3365c561f7457cef8b52
 e
 5src/main/java/edu/ex/shoppingcart/model/Category.java,f\3\f3ab56da775ae311b592e7f79b7d5553b6d43b80
+i
+9src/main/java/edu/ex/shoppingcart/model/ProductImage.java,3\e\3e0b67aa5a6680ba43e15e04fa41dfa09acb80e8
