@@ -16,3 +16,5 @@ d
 4src/main/java/edu/ex/shoppingcart/model/Product.java,4\d\4d8ff3e8abe5dd9220baf0a55b432b4972a86ba4
 i
 9src/main/java/edu/ex/shoppingcart/model/ProductBrand.java,d\3\d379b1030551c162310359ec9e31e06c47796184
+b
+2src/main/java/edu/ex/shoppingcart/model/Brand.java,b\d\bd138595e48bdca7cb9c3365c561f7457cef8b52
